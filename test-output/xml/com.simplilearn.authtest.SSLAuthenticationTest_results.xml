@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.804">
+           time="2.469">
   <properties />
   
   
-            <testcase name="testSSLCertificate2" time="0.896" classname="com.simplilearn.authtest.SSLAuthenticationTest" />
-                <testcase name="testSSLCertificate1" time="0.908" classname="com.simplilearn.authtest.SSLAuthenticationTest" />
+            <testcase name="testSSLCertificate1" time="1.411" classname="com.simplilearn.authtest.SSLAuthenticationTest" />
+                <testcase name="testSSLCertificate2" time="1.058" classname="com.simplilearn.authtest.SSLAuthenticationTest" />
       
 </testsuite>

@@ -5,7 +5,9 @@
 		<listener class-name="org.uncommons.reportng.HTMLReporter" />
 		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
 	</listeners>
-	<test name="REST APIs">
+	
+	
+		<test name="REST APIs">
 		<classes>
 			<class name="com.simplilearn.resttesting.GetRequestTest"></class>
 			<class name="com.simplilearn.resttesting.PostRequestTest"></class>
@@ -19,6 +21,7 @@
 		<classes>
 			<class name="com.simplilearn.soaptesting.GetCapitalByCountryCodeTest"></class>
 			<class name="com.simplilearn.soaptesting.NumberToWordConversion"></class>
+			<class name="com.simplilearn.soaptesting.ListOfCountriesWithCountryCodeTest"></class>
 		</classes>
 	</test>
 	
@@ -29,5 +32,4 @@
 			<class name="com.simplilearn.authtest.SSLAuthenticationTest"></class>
 		</classes>
 	</test>
-	
 </suite>

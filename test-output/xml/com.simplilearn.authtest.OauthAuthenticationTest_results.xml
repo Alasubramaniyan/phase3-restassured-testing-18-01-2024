@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="4.438">
+           time="4.485">
   <properties />
   
   
-            <testcase name="testAuthenticationBasedOnCredsToken" time="2.515" classname="com.simplilearn.authtest.OauthAuthenticationTest" />
-                <testcase name="testAuthenticationToken" time="1.923" classname="com.simplilearn.authtest.OauthAuthenticationTest" />
+            <testcase name="testAuthenticationBasedOnCredsToken" time="2.080" classname="com.simplilearn.authtest.OauthAuthenticationTest" />
+                <testcase name="testAuthenticationToken" time="2.405" classname="com.simplilearn.authtest.OauthAuthenticationTest" />
       
 </testsuite>
