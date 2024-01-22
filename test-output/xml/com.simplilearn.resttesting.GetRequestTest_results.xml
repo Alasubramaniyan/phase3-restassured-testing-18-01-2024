@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="REST APIs"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.988">
+  <properties />
+  
+  
+            <testcase name="getRequestTest" time="18.469" classname="com.simplilearn.resttesting.GetRequestTest" />
+                <testcase name="getRequestWithUserIdTest" time="0.879" classname="com.simplilearn.resttesting.GetRequestTest" />
+                <testcase name="getRequestWithQueryParmsTest" time="1.640" classname="com.simplilearn.resttesting.GetRequestTest" />
+      
+</testsuite>
